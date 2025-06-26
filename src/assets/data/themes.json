@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "nom": "Les J-RPG",
+    "nombreDeJeu": 5,
+    "font":"https://fyre.cdn.sewest.net/ffvii-hub/6471442498774a5fd66555de/ffviirebirth_mobile_banner_496x516-58664490614280910.jpg?quality=85&width=3840",
+    "jeux": [
+      {
+        "id": 1,
+        "noms": ["Tales of Berseria", "Berseria"],
+        "licence": "Tales of",
+        "url": "https://www.godisageek.com/wp-content/uploads/Tales-of-Berseria-1280x720.jpg",
+        "localisation": "Hellawes"
+      },
+      {
+        "id": 2,
+        "noms": ["Pokémon Saphir", "Pokémon Rubis", "Pokémon Emeraude"],
+        "licence": "Pokémon",
+        "url": "https://www.pokebip.com/pages/jeuxvideo/rubis-saphir/guide-des-lieux/images/atalanopolis.png",
+        "localisation": "Atalanopolis"
+      },
+      {
+        "id": 3,
+        "noms": "Nier Automata",
+        "licence": "Nier",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_rtyD3gGOmaINqEkN67GDdKZjzpCbMmSkw&s",
+        "localisation": ["Village Machine", "Le Village de Pascal"]
+      },
+      {
+        "id": 4,
+        "noms": ["Lightning Returns Final Fantasy XIII", "Final Fantasy XIII-3"],
+        "licence": "Final Fantasy",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94FLVL0x_NZc1nSg7uNXLL93PGVC0_RAulw&s",
+        "localisation": "Yusnaan"
+      },
+      {
+        "id": 5,
+        "noms": ["Dragon Quest XI"],
+        "licence": "Dragon Quest",
+        "url": "https://gh.cdn.sewest.net/assets/ident/news/31464ff0/DQXIS-Heliodor-fountain-hero-o3c26e0l0.png",
+        "localisation": "Heliodor"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Les FPS",
+    "nombreDeJeu": 3,
+    "font":"https://store-images.s-microsoft.com/image/apps.60347.14536964349136030.18eda75d-7a5e-4160-94f5-2d47359e4ef5.82f876b7-6e5b-461a-abe5-bc307885745e?q=90&w=480&h=270" ,
+    "jeux": [{
+        "id":1,
+        "noms": "CyberPunk 2077",
+        "licence":"CyberPunk",
+        "url":"https://www.nightcity.love/build/images/districts/santo-domingo-03e66181.jpg",
+        "localisation":"Night city"
+    },{
+        "id":2,
+        "noms":["Counter Strike 2", "CS2"],
+        "licence":["Counter Strike","CS"],
+        "url":"https://files.bo3.gg/uploads/image/72686/image/webp-b41fa5028999b4bdd38c4733a13ea706.webp",
+        "localisation":"Inferno"
+    },{
+        "id":3,
+        "noms":["Call of Duty Black Ops III","COD BO3"],
+        "licence":["Call of Duty","COD"],
+        "url":"https://image.jeuxvideo.com/medias-md/145389/1453890955-974-card.jpg",
+        "localisation":"Der Eisendrache"
+    }]
+  },{
+    "id":3,
+    "nom":"Les jeux français",
+    "nombreDeJeu": 4,
+    "font":"https://media.lesechos.com/api/v1/images/view/5cbafb453e45462f4a5d8915/1280x720/0601112746485-web-tete.jpg" ,
+    "jeux":[
+        {
+            "id":1,
+            "noms":"There is no game: Wrong Dimension",
+            "licence":"There is no game",
+            "url":"https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/84017.jpg.webp",
+            "localisation":"Chapitre 3"
+        },{
+            "id":2,
+            "noms":["Rayman 3","Rayman 3 Hoodlum Havoc"],
+            "licence":"Rayman",
+            "url":"https://preview.redd.it/rayman-3-all-levels-ranked-v0-g733bq3qsf7c1.jpg?width=640&crop=smart&auto=webp&s=c2496d67e93048aebd7dfef6c6707e930c319ac0",
+            "localisation":"Tour des Leptys"
+        },{
+            "id":3,
+            "noms":["Expédition 33","Clair Obscur: Expedition 33"],
+            "licence":"Clair Obscur",
+            "url":"https://static.lpnt.fr/images/2025/04/24/27576624lpw-27576770-mega-une-jpg_11066315.jpg",
+            "localisation":"Paris"
+        },
+        {
+            "id":4,
+            "noms":"Detroit: Become No Human",
+            "licence":"Detroit: Become No Human",
+            "url":"https://external-preview.redd.it/detroit-become-human-looks-magnificent-without-taa-and-v0-O1PzujdZwTl5HGsGB984HJoxd6_LID_Y-_56w_gkHMI.jpg?width=1080&crop=smart&auto=webp&s=e55971b4d05c30956cb4c5627315f4e934c6c7cb",
+            "localisation":"Detroit"
+        }
+    ]
+  },{
+    "id":4,
+    "nom":"Meilleurs notes Metacritic",
+    "nombreDeJeu":5,
+    "font": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ACVyq4yOgbZaHQzHjV0FzWASbzCJhG8htQ&s",
+    "jeux":[
+      {
+        "id":1,
+        "noms": ["GTA IV","Grand Theft Auto IV"],
+        "licence":["Grand Theft Auto","GTA"],
+        "url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5NXQM-9tObVPMXw8oWnk-rhW8BVunl7LxhWBZJ_hu0iHx0zUpt8O4DehKWEQ5xs4bqEdVhzrnnIWeOdlxDg2qf63wXON2ve0tUP4skXxgrZCBV52WJyWXsfp62p3qkx83bpc7zQMyyTQ/s1600/GTA4_city.jpg",
+        "localisation": "Liberty City"
+
+      },{
+        "id":2,
+        "noms":" Super Mario Galaxy",
+        "licence":"Mario Galaxy",
+        "url":"https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/23143.jpeg.webp",
+        "localisation":"Royaume Champignon"
+      },{
+        "id":3,
+        "noms":"Halo: Combat Evolded",
+        "licence":"Halo",
+        "url":"https://i.pinimg.com/736x/a3/7a/9e/a37a9e011238838892204ce0f658e740.jpg",
+        "localisation": "Threshold"
+      },{
+        "id":4,
+        "noms":"Resident Evil 4",
+        "licence":"Resident Evil",
+        "url": "https://i.ytimg.com/vi/ycQx_NcgkIw/maxresdefault.jpg",
+        "localisation":"Valdelobos"
+      },{
+        "id":5,
+        "noms":"Fire Emblem Awakening",
+        "licence":"Fire Emblem",
+        "url":"https://lparchive.org/Fire-Emblem-Awakening/Update%2002/59-scene38.jpg",
+        "localisation":"Ylisse"
+      }
+    ]
+
+  },{
+      "id":5,
+      "nom":"Impossible à trouver",
+      "nombreDeJeu":4,
+      "font": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5EY2SafD2ZVwrtR5ggQFtJqgcbubTSrBzQ&s",
+      "jeux":[
+        {
+          "id":1,
+          "noms": "God Eater 3",
+          "licence": "God Eater",
+          "url": "https://static.bandainamcoent.eu/high/god-eater/god-eater-3/02-screenshots/5-november/god-eater-3_caravan%20%281%29.jpg",
+          "localisation":"la Base Fenrir"
+        },{
+          "id":2,
+          "noms":"Guilty Gear Xrd Revelator",
+          "licence":"Guilty Gear",
+          "url":"https://i.ytimg.com/vi/OHNzDhWmm2s/maxresdefault.jpg",
+          "localisation": "Colonie"
+        },{
+          "id":3,
+          "noms": "Punch Club",
+          "licence":"Punch Club",
+          "url": "https://images.gog-statics.com/97ef407eb5157c6c5958d791c5c48da9794bd02a5b76669c5a9e38f7a294f6ec_product_card_v2_mobile_slider_639.jpg",
+          "localisation":"Maison"
+        },{
+          "id":4,
+          "noms":"Grim Fandango",
+          "licence":"Grim Fandango",
+          "url":"https://images.gog-statics.com/834802cef531a55eb573b14876f72b0bec4fccaa95bad27a9973982ba8b62360_product_card_v2_mobile_slider_639.jpg",
+          "localisation":"Bureau de Marny"
+        }
+      ]
+  },{
+    "id":6,
+    "nom":"Mes jeux préférés",
+    "nombreDeJeu":3,
+    "font":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUXOsT54PQ8PDem-ZBWEld7xHKgwWdgN-tA&s",
+    "jeux":[{
+      "id":1,
+       "noms":"Yakuza 0",
+       "licence":["Yakuza","Like a Dragon"],
+       "url":"https://www.gematsu.com/wp-content/uploads/2014/11/Yakuza-0-Gameplay_11-17-14.jpg",
+       "localisation":"Kamurocho"
+    },{
+      "id":2,
+      "noms":["Fire Emblem Fates Heritage","Fire Emblem Fates Conquête","Fire Emblem Revelation"],
+      "licence": "Fire Emblem",
+      "url":"https://miro.medium.com/v2/resize:fit:1400/1*QFj-29TF3nII2b6WmN92hg.jpeg",
+      "localisation":"Cyrkensia"
+
+    },{
+      "id":3,
+      "noms":"Batman Arkham City",
+      "licence":"Batman Arkham",
+      "url":"https://img.20mn.fr/arU3G5cAQL6WmJOmkZmnXA/1444x920_20mn-69559",
+      "localisation":"Arkham City"
+    }]
+  }
+]
