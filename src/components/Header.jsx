@@ -9,7 +9,7 @@ const Header = () => {
       <div className="w-32" />
 
       
-      <div className="flex flex-col items-center justify-center text-center">
+      <div className="flex flex-col items-center justify-center">
         <img
           src={logo}
           alt="Guess My Map"
@@ -24,9 +24,12 @@ const Header = () => {
       </div>
 
       <div className="flex gap-2 ">
-        <button className="bg-yellow-300 text-black font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
+        <Link to="/inscription">
+            <button className="bg-yellow-300 text-black font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
       Inscription
         </button>
+        </Link>
+      
         <button className="bg-blue-400 text-white font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
           Connexion
         </button>
