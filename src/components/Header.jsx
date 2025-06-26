@@ -25,14 +25,16 @@ const Header = () => {
 
       <div className="flex gap-2 ">
         <Link to="/inscription">
-            <button className="bg-yellow-300 text-black font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
+            <button className="bg-yellow-300 text-white font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
       Inscription
         </button>
         </Link>
-      
-        <button className="bg-blue-400 text-white font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
+        <Link to="/connexion">
+           <button className="bg-blue-400 text-white font-bold px-4 py-2 rounded-xl shadow-sm border border-black">
           Connexion
         </button>
+        </Link>
+     
       </div>
     </header>
   );
